@@ -17,7 +17,7 @@ Use mail chimp API to track all the emails and messages from your users
 Host your website to github pages
 
 ## Setup/Installation Requirements
-* git clone https://github.com/rachael-gatwiri/bank.git
+* git clone 
 * extract the file
 * cd code
 * Open the index.html on your favorite browser``
@@ -29,6 +29,8 @@ Host your website to github pages
   * Javascript
   * Bootstrap
   * markdown
+  ## Link
+https://github.com/rachael-gatwiri/bank.git
 ## Support and contact details
 rachaelmuga1@gmail.com
 ### License
