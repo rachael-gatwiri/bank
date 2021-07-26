@@ -32,5 +32,7 @@ Host your website to github pages
   ## Link
 https://github.com/rachael-gatwiri/bank.git
 ## Support and contact details
+Look around and feel free to contact us. We are happy to help.
+
 rachaelmuga1@gmail.com
 ### License
