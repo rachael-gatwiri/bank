@@ -3,7 +3,7 @@
 ![hudumabank](https://image.shutterstock.com/image-photo/bank-building-260nw-574713295.jpg)
 
 
-Welcome to our design website. Look around and feel free to contact us. We are happy to help.
+Welcome to our bank website. Look around and feel free to contact us. We are happy to help.
 
 
 #### By **Rachael Gatwiri**
