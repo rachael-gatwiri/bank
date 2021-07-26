@@ -10,12 +10,9 @@ Welcome to our bank website. Look around and feel free to contact us. We are hap
 
 ## Description
 
-Create a Hover effect for the Portfolio  sections such that on hover a white box appears with then name of the project inside. The project picture should still be visible in the background. This should be achieved using jQuery.
-Make the site responsive.
-Tell the user through a pop up that you have received their message and also thank them for contacting you . For example: ** johndoe we have received your message. Thank you fro reaching out to us. **
-Use mail chimp API to track all the emails and messages from your users
-Host your website to github pages
+ Huduma Bank is a financial services institution in Africa providing banking products and services for the personal, commercial and corporate sectors. ... Huduma Bank is a subsidiary of Huduma Group Holdings Limited and its head office is in South Africa.
 
+Tell us what you would wish to tell us in the mail chatpost provided.
 ## Setup/Installation Requirements
 * git clone 
 * extract the file
