@@ -12,7 +12,7 @@ Welcome to our bank website. Look around and feel free to contact us. We are hap
 
  Huduma Bank is a financial services institution in Africa providing banking products and services for the personal, commercial and corporate sectors. ... Huduma Bank is a subsidiary of Huduma Group Holdings Limited and its head office is in South Africa.
 
-Tell us what you would wish to tell us in the mail chatpost provided.
+Tell us what you would wish to tell us in the mail chatpost provided in the website.
 ## Setup/Installation Requirements
 * git clone 
 * extract the file
