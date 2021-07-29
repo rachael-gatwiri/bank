@@ -15,10 +15,10 @@ Tell the user through a pop up that you have received their message and also tha
 Use mail chimp API to track all the emails and messages from your users
 Host your website to github pages
 ## Setup/Installation Requirements
-git clone https://github.com/rachael-gatwiri/studio.git
-extract the file
-cd to the studio director
-Open the index.html on your favorite browser``
+* git clone https://github.com/rachael-gatwiri/studio.git
+* extract the file
+* cd to the studio director
+* Open the index.html on your favorite browser``
 
 ## Technologies Used
 
