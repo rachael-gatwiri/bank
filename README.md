@@ -1,23 +1,24 @@
-# Huduma Bank
+# Delani Studio
 
-![hudumabank](https://image.shutterstock.com/image-photo/bank-building-260nw-574713295.jpg)
+![Screenshot from 2021-03-03 03-14-44](https://user-images.githubusercontent.com/78595142/109732863-00650800-7bcf-11eb-9c24-e86b72d4797e.png)
 
-
-Welcome to our bank website. Look around and feel free to contact us. We are happy to help.
-
+Welcome to our design website. Look around and feel free to contact us. We are happy to help
+., {26th july 2021}
 
 #### By **Rachael Gatwiri**
 
 ## Description
-
- Huduma Bank is a financial services institution in Africa providing banking products and services for the personal, commercial and corporate sectors. ... Huduma Bank is a subsidiary of Huduma Group Holdings Limited and its head office is in South Africa.
-
-Tell us what you would wish to tell us in the mail chatpost provided in the website.
+The 'What we do'  icons when clicked should toggle between the respective description of each icon. The description should be centered aligned. The header should be in bold and centered also. This should be achieved by using jQuery.
+Create a Hover effect for the Portfolio  sections such that on hover a white box appears with then name of the project inside. The project picture should still be visible in the background. This should be achieved using jQuery.
+Make the site responsive.
+Tell the user through a pop up that you have received their message and also thank them for contacting you . For example: ** johndoe we have received your message. Thank you fro reaching out to us. **
+Use mail chimp API to track all the emails and messages from your users
+Host your website to github pages
 ## Setup/Installation Requirements
-* git clone 
-* extract the file
-* cd code
-* Open the index.html on your favorite browser``
+git clone https://github.com/rachael-gatwiri/studio.git
+extract the file
+cd to the studio director
+Open the index.html on your favorite browser``
 
 ## Technologies Used
 
@@ -25,12 +26,8 @@ Tell us what you would wish to tell us in the mail chatpost provided in the webs
   * Css
   * Javascript
   * Bootstrap
-  * markdown
-  ## Link
-https://github.com/rachael-gatwiri/bank.git
+  * Markdown
 ## Support and contact details
-Look around and feel free to contact us. We are happy to help.
-
-rachaelmuga1@gmail.com
+[rachaelmuga1@gmail.com]
 ### License
 Copyright (c) 2021 Rachael
